@@ -7,5 +7,5 @@ Script ini digunakan untuk install **badvpn-udpgw (UDPGW)** secara otomatis + la
 ## 🚀 Instalasi (1 Command)
 
 ```bash
-wget -qO install.sh https://raw.githubusercontent.com/arivpnstores/badvpn/master/install.sh && chmod +x install.sh && bash install.sh
+wget -qO install.sh https://raw.githubusercontent.com/arivpnstores/badvpn/main/install.sh && chmod +x install.sh && bash install.sh
 ```
